@@ -4,7 +4,7 @@ comments   //,/*comments*/
 data types..
 undefined,null,boolean,string,symbol,number and objects
 declaring variable---
-var name="indhu"
+var name="florance"
 name=8-- we can change this
 let ourname="course"--only used within the code where u declare that
 const pi=3.14
